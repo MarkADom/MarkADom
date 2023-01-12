@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  
   <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/marco-dv-domingues" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>" alt="LinkedIn Badge"/>
   </a>
 </div>
 
