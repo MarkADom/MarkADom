@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align= "center">
   <a href="your-linkedin-URL">
     <img src="https://www.linkedin.com/in/marco-dv-domingues" alt="LinkedIn Badge"/>
   </a>
