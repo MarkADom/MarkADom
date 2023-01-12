@@ -17,6 +17,6 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="400" height="400"/>
 </div>
 
