@@ -26,7 +26,6 @@
   <img src="https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg" width="1004" height="314"/>
 </div>
 
------
 ### 👨‍💻: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
@@ -37,13 +36,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I produce electronic music.
 
------
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
+-----
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=transparent)
 
 
 
@@ -54,3 +51,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,pr,autocad,)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=transparent)
