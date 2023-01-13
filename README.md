@@ -18,7 +18,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://i1.wp.com/www.bloggersideas.com/wp-content/uploads/2015/03/Top-10-Programming-Languages.png?fit=600%2C300&ssl=1" width="600" height="300"/>
+  <img src="D:\code\SocialMedia\programming-banner-concept.png" width="800" height="310"/>
 </div>
 ---
 
