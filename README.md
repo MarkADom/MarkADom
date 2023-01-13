@@ -54,7 +54,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📋 Stats :
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MarkADom)](https://https://github.com/MarkADom)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&layout=compact)](https://github.com/MarkADom)
+<div align="center">
+ 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+ 
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MarkADom&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%"> 
+</div>
 
