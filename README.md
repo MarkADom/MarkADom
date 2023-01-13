@@ -43,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&layout=compact)]
 
 -----
 
