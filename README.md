@@ -25,7 +25,7 @@
 </div>
 
 
-
+<div>
 ### 👨‍💻: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
@@ -37,13 +37,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I produce electronic music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
+</div>
 
-
-
+<div>
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
+</div>
 
-
+<div>
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,autocad,)](https://skillicons.dev)
-
+</div>
