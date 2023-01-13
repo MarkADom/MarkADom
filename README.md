@@ -40,11 +40,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
 -----
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&layout=compact" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=merko)
+
+-----
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&layout=compact)
+
 
 
 -----
