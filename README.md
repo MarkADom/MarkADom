@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=merco)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=transparent)
 
 ### :hammer_and_wrench: Languages and Tools :
 
