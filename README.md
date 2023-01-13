@@ -18,6 +18,16 @@
   
 </div>
 
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+
 <div id="banner" align="center">
   <img src="https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg" width="1004" height="314"/>
 </div>
