@@ -18,7 +18,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="D:\code\SocialMedia\programming-banner-concept.png" width="800" height="310"/>
+  <img src="[D:\code\SocialMedia\programming-banner-concept.png](https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg)" width="960" height="300"/>
 </div>
 ---
 
