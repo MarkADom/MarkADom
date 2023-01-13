@@ -37,6 +37,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I produce electronic music.
 
+-----
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
 
