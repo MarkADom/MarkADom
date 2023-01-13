@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&count_private=true&show_icons=true&hide_border=true&theme=transparent" width="54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&count_private=true&show_icons=true&hide_border=true&theme=merko" width="54.25%">
  
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MarkADom&layout=compact&hide_border=true&theme=transparent&hide_border=true" width="45.25%"> 
 </div>
