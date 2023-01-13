@@ -41,5 +41,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hybernate,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,mysql,Restful,mongo)](https://skillicons.dev)
 
