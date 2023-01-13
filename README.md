@@ -17,8 +17,8 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
   <h2>
-  hey theren, i'm Marco
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    hey theren, i'm Marco
 </h2>
 </div>
 
