@@ -43,7 +43,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
 
-### :software :
 
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,autocad,)](https://skillicons.dev)
 
