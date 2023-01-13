@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
------
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marco-dv-domingues/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,11 +33,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I produce electronic music.
------
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 -----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&show_icons=true&theme=merko)
-
+-----
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
