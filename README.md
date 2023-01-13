@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -----
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MarkADom&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&langs_count=5&theme=tokyonight)]()
+
 
 -----
 
