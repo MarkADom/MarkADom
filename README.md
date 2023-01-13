@@ -54,4 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📋 Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkADom&count_private=true)
