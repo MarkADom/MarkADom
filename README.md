@@ -22,6 +22,8 @@
 </h1>
 </div>
 
+-----
+
 <div id="banner" align="center">
   <img src="https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg" width="1004" height="314"/>
 </div>
