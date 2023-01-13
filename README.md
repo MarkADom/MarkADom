@@ -30,9 +30,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studing ,working and contributing to frontend and backend for building web applications.
+- :telescope: I’m studing ,working and contributing to backend and frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content.
 
 - :zap: In my free time, I produce electronic music.
 
