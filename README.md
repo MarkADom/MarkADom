@@ -3,16 +3,12 @@
 <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 
-
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marco-dv-domingues/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
-
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
@@ -39,11 +35,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
 -----
-
-
-
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
