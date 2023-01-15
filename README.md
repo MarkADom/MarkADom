@@ -19,7 +19,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fprogramming-coding-programming-banner-vector-id623899888%3Fk%3D6%26m%3D623899888%26s%3D170667a%26w%3D0%26h%3DT3oTBRpsr1Q2QUG4L1nEAL3SyvyFiftkzk38QNXd-gI%3D&f=1&nofb=1&ipt=22375bdc31f17a89d7cd12495f4004251a0fd418939e5fd19f099977091262c2&ipo=images" width="1004" height="314"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fprogramming-coding-programming-banner-vector-id623899888%3Fk%3D6%26m%3D623899888%26s%3D170667a%26w%3D0%26h%3DT3oTBRpsr1Q2QUG4L1nEAL3SyvyFiftkzk38QNXd-gI%3D&f=1&nofb=1&ipt=22375bdc31f17a89d7cd12495f4004251a0fd418939e5fd19f099977091262c2&ipo=images" width="1262" height="560"/>
  <!-- <img src="https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg" width="1004" height="314"/> -->
 </div>
 
