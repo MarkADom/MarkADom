@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -----
 
 <div id="buy" align="center">
-<img src="https://www.buymeacoffee.com/marcodomingues">
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marcodomingues)
 </div>
   
 -----
