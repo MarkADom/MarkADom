@@ -36,7 +36,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -----
 
-https://www.buymeacoffee.com/marcodomingues
+<div id="buy" align="center">
+<img src="https://www.buymeacoffee.com/marcodomingues">
+</div>
+  
 -----
 ### :hammer_and_wrench: Languages and Tools :
 
