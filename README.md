@@ -36,9 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -----
 
-<div id="buy" align="center">
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marcodomingues)
-</div>
+
   
 -----
 ### :hammer_and_wrench: Languages and Tools :
