@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&count_private=true&show_icons=true&hide_border=true&theme=transparent" width="54.25%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&count_private=true&show_icons=true&hide_border=true&theme=green" width="54.25%">
  
   <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkADom)](https://github.com/anuraghazra/github-readme-stats)-->
   
