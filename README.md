@@ -36,6 +36,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -----
 
+https://www.buymeacoffee.com/marcodomingues
+-----
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
