@@ -53,3 +53,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 </div>
 
+          My 2021 GitHub Skyline          
+
+         ✦                 ✦    ▁          ☽     ✦   
+ ✦                 █          ▁▄██      ✧     ✧      
+ ✧                ✦█  ▁ ▇     ████    ✦ ✧            
+  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
+ ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
+▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
+
