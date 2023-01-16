@@ -22,9 +22,10 @@
   <img src="https://prg.is.titech.ac.jp/wp-content/uploads/2013/09/prg-banner-201309.jpg" width="1004" height="314"/>
 </div>
 
-### 👨‍💻 About Me :
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/marcodomingues)
+
+
+### 👨‍💻 About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
