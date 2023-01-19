@@ -51,10 +51,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,pr,autocad,)](https://skillicons.dev)
 
 
+
 ----- 
 
 
 ### 📋 Stats :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkADom&theme=tokyonight)
 
 <div id="stats" align="center">
   <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkADom)](https://github.com/anuraghazra/github-readme-stats)-->
