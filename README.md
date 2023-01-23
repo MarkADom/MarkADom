@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
   <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    hey there, i'm Marco
+    hey there, i'm Marco.
 </h2>
 </div>
 
