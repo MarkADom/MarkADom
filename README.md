@@ -38,17 +38,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.buymeacoffee.com/marcodomingues" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
  </div>
  
-
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
 
-
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,pr,autocad,)](https://skillicons.dev)
 
-
 ----- 
-
 
 ### 📋 Stats :
 
