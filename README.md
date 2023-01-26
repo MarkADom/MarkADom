@@ -48,13 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 📋 Stats :
 
-
 <div id="stats" align="center">
   <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarkADom)](https://github.com/anuraghazra/github-readme-stats)-->
   <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarkADom&count_private=true&show_icons=true&hide_border=true&theme=merko" width="54.25%">-->
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkADom&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
- 
 </div>
 
 
