@@ -43,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,react,html,c,cpp,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,mongodb,maven,gradle,postgres,git,bootstrap,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,powershell,vim,ableton,ae,ps,pr,autocad,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,powershell,vim,ableton,ae,ps,pr,ai,autocad,)](https://skillicons.dev)
 
 ----- 
 
