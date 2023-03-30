@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,html,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,html,c,c++,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,mongodb,maven,postgres,git,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,visualstudio,vim,ableton,ae,ps,pr,autocad,)](https://skillicons.dev)
 
