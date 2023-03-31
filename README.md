@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 📋 Stats :
 
 <div id="stats" align="center">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarkADom)](https://github.com/anuraghazra/github-readme-stats
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkADom&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
