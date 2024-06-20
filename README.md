@@ -1,16 +1,12 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="350"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marco-dv-domingues/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
-</div>
-
-<div id="badges" align="cente">
-<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"/>
 </div>
 
 <div id="badges" align="center">
@@ -49,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ----- 
 <div id="badges" align="center">
-<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif" width="400"/>
+<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"/>
 </div>
 
 -----
