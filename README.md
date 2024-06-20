@@ -1,10 +1,7 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-
+<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
-
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marco-dv-domingues/">
@@ -14,9 +11,7 @@
 
 <div id="badges" align="cente">
 <img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"/>
-
 </div>
-
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
@@ -53,6 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,androidstudio,vscode,visualstudio,figma,powershell,vim,ableton,ae,ps,pr,ai,autocad,stackoverflow)](https://skillicons.dev)
 
 ----- 
+<div id="badges" align="center">
+<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif" width="400"/>
+</div>
+
+-----
 
 ### 📋 Stats :
 
