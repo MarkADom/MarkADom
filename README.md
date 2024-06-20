@@ -27,7 +27,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studing ,working and contributing to backend and frontend for building android applications.
+- :telescope: I’m Software Developer ,working and contributing to backend and frontend for building android applications.
 
 - :seedling: Exploring Technical Content.
 
