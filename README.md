@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I produce electronic music.
+- :zap: In my free time, I produce electronic music. Sound design is my hobby.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-marco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-dv-domingues/)
 
