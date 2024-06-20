@@ -4,12 +4,19 @@
 
 </div>
 
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marco-dv-domingues/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
+  </a>  
 </div>
+
+<div id="badges" align="cente">
+<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"/>
+
+</div>
+
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-MarcoDomingues&style=flat-square&color=blue" alt=""/>
