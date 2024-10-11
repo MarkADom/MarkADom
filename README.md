@@ -42,11 +42,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My Skills](https://skillicons.dev/icons?i=linux,idea,androidstudio,vscode,visualstudio,figma,powershell,vim,ableton,ae,ps,pr,ai,autocad,stackoverflow)](https://skillicons.dev)
 
------ 
-<div id="badges" align="center">
-<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"/>
-</div>
-
 -----
 
 ### 📋 Stats :
