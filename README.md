@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div id="stats" align="center">
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkADom&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarkADom&theme=nightowl)](https://git.io/streak-stats)
 </div>
 
 
