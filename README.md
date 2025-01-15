@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div id="stats" align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarkADom&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarkADom&theme=merko)](https://git.io/streak-stats)]
 
 </div>
 
