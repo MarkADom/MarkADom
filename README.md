@@ -38,9 +38,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,js,py,bash,gherkin,react,html,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,azure,docker,cmake,mongodb,maven,gradle,firebase,grafana,postgres,git,bootstrap,postman,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,py,bash,gherkin,react,js,ts,tailwind,html,css,spring,hibernate,heroku,jquery,mysql,nodejs,aws,azure,docker,cmake,mongodb,maven,gradle,firebase,grafana,postgres,git,bootstrap,postman,md,jenkins)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,idea,androidstudio,vscode,visualstudio,figma,powershell,vim,ableton,ae,ps,pr,ai,autocad,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,idea,androidstudio,vscode,visualstudio,figma,powershell,vim,ableton,ae,ps,pr,ai,autocad,stackoverflow,notion)](https://skillicons.dev,npm)
 
 -----
 
