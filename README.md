@@ -16,7 +16,7 @@ close to domain logic, integrations, and long-term code ownership.
 - Linux, Docker, Git
 - Unit testing (JUnit, Mockito, MockK)
 
-## Selected projects
+## Selected backend projects
 - **GeoLocateAPI** – Lightweight Java 17 microservice with Clean Architecture
 - **SynchTask** – Collaborative backend system in Kotlin + Spring Boot
 - **FileUploadAPI** – Secure file upload service with filesystem storage
