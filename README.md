@@ -1,9 +1,7 @@
 # Marco Domingues
 
-Backend-focused Software Engineer building production-grade systems with Kotlin, Java and Spring Boot.
-I work with Clean Architecture, domain-driven design, real-time systems and secure APIs.
-Strong emphasis on maintainability, code quality and CI-driven development.
-I prefer software that survives production,not demos.
+Backend Engineer (Kotlin/Java) with production experience in automotive systems and real-time APIs.
+I build reliable backend services using Spring Boot, clean architecture principles and strong testing discipline. Previously worked on BMW’s Connected Assistant (Android Automotive), delivering Kotlin-based features integrated with embedded systems and voice platforms. Currently focused on designing modular, secure APIs with JWT authentication, WebSockets and Redis, prioritizing maintainability and long-term scalability.
 
 ## What I build
 
