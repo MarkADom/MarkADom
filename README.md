@@ -7,17 +7,17 @@ I prefer software that survives production,not demos.
 
 ## What I build
 
-REST APIs and event-driven services
-JWT-secured systems with proper key management
-Real-time communication (WebSockets + Redis pub/sub)
-Modular backend architectures (DDD / Clean Architecture)
-CI/CD pipelines with enforced quality gates (SonarCloud, JaCoCo)
+- REST APIs and event-driven services
+- JWT-secured systems with proper key management
+- Real-time communication (WebSockets + Redis pub/sub)
+- Modular backend architectures (DDD / Clean Architecture)
+- CI/CD pipelines with enforced quality gates (SonarCloud, JaCoCo)
 
 ## Tech Stack
 
-Kotlin • Java • Spring Boot • PostgreSQL • MySQL
-Redis • Docker • Linux • GitHub Actions
-JUnit • MockK • Detekt • SonarCloud
+- Kotlin • Java • Spring Boot • PostgreSQL • MySQL
+- Redis • Docker • Linux • GitHub Actions
+- JUnit • MockK • Detekt • SonarCloud
 
 ## How I like to work
 - Clear ownership
