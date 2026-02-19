@@ -1,30 +1,28 @@
 # Marco Domingues
 
-Backend-focused software engineer working primarily with **Java and Kotlin**, 
-building APIs and services with **Spring Boot**, clean architecture principles 
-and a strong focus on maintainability and real-world constraints.
+Backend-focused Software Engineer building production-grade systems with Kotlin, Java and Spring Boot.
+I work with Clean Architecture, domain-driven design, real-time systems and secure APIs.
+Strong emphasis on maintainability, code quality and CI-driven development.
+I prefer software that survives production,not demos.
 
-I’ve worked with **production systems** in automotive and client-facing contexts, 
-close to domain logic, integrations, and long-term code ownership.
+## What I build
 
-## What I work with
-- Java / Kotlin
-- Spring Boot, REST APIs
-- PostgreSQL, MySQL
-- Clean Architecture, modular design
-- JWT authentication, WebSockets
-- Linux, Docker, Git
-- Unit testing (JUnit, Mockito, MockK)
+REST APIs and event-driven services
+JWT-secured systems with proper key management
+Real-time communication (WebSockets + Redis pub/sub)
+Modular backend architectures (DDD / Clean Architecture)
+CI/CD pipelines with enforced quality gates (SonarCloud, JaCoCo)
 
-## Selected backend projects
-- **GeoLocateAPI** – Lightweight Java 17 microservice with Clean Architecture
-- **SynchTask** – Collaborative backend system in Kotlin + Spring Boot
-- **FileUploadAPI** – Secure file upload service with filesystem storage
+## Tech Stack
+
+Kotlin • Java • Spring Boot • PostgreSQL • MySQL
+Redis • Docker • Linux • GitHub Actions
+JUnit • MockK • Detekt • SonarCloud
 
 ## How I like to work
-- Small teams
 - Clear ownership
-- Calm execution over hype
-- Software that survives production, not demos
+- Calm execution
+- Strong testing discipline
+- Focus on long-term maintainability
 
 📫 [LinkedIn](https://www.linkedin.com/in/marco-dv-domingues/)
